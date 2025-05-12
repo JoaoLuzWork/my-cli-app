@@ -5,7 +5,7 @@
   "type": "module",
   "repository": {
     "type": "github",
-    "url": ""
+    "url": "https://github.com/JoaoLuzWork/my-cli-app"
   },
   "bin": {
     "first_test_package_j": "index.js"
