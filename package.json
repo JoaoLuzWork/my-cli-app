@@ -1,0 +1,28 @@
+{
+  "name": "first_test_package_j",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "github",
+    "url": ""
+  },
+  "bin": {
+    "first_test_package_j": "index.js"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "joao",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.8.1",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^12.6.1",
+    "nanospinner": "^1.2.2"
+  }
+}
